@@ -17,13 +17,13 @@ Antes:
 ```
             A---B---C topic
          /
-    D---E---A'---F master
+    D---E---A---F master
 ```
 Depois
 ```
                    B'---C' topic
                   /
-    D---E---A'---F master
+    D---E---A---F master
 ```
 
 
