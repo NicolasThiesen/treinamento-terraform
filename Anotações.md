@@ -27,4 +27,13 @@ Depois
 ```
 
 
+## Comandos terraform
+
+- `terraform plan` -> dry run nos arquivos (simula o apply)
+- `terraform validate` -> valida o arquivo
+- `terraform fmt [arquivo]` -> formata o arquivo 
+- `terraform show` -> mostra tanto recursos quanto outputs dos arquivos
+- `terraform output` -> mostra os outputs dos arquivos
+
+
 
