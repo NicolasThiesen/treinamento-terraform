@@ -34,6 +34,8 @@ Depois
 - `terraform fmt [arquivo]` -> formata o arquivo 
 - `terraform show` -> mostra tanto recursos quanto outputs dos arquivos
 - `terraform output` -> mostra os outputs dos arquivos
+- `terraform init -upgrade` -> mostra os outputs dos arquivos
+
 
 
 
