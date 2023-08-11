@@ -1,3 +1,4 @@
-user="nicolas"
-cidr = "10.0.0.0/16"
-cidr_sb = "10.0.1.0/24"
+user     = "nicolas"
+cidr     = "10.0.0.0/16"
+cidr_sb  = "10.0.1.0/24"
+mensagem = "Olá seja bem vindo"

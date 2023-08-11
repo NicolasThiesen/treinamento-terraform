@@ -35,7 +35,9 @@ Depois
 - `terraform show` -> mostra tanto recursos quanto outputs dos arquivos
 - `terraform output` -> mostra os outputs dos arquivos
 - `terraform init -upgrade` -> mostra os outputs dos arquivos
-
-
-
+- `terraform console` -> modo de interação do terraform
+- `terraform state list` -> lista o estado
+- `terraform state show aws_vpc.lab_vpc` -> lista o estado
+- `terraform init -migrate-state` -> migra o estado para um novo backend
+- `terraform apply -refresh-only` -> Sincroniza o seu estado com a infraestrutura
 
